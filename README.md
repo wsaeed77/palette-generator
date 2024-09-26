@@ -8,7 +8,7 @@
 - Support for different color schemes: default, monochromatic, analogous, complementary, triadic, tetradic.
 - Display the palette directly in the console.
 - Option to save the palette to a file.
-- Interactive CLI for easy use.
+- Interactive CLI for easy use.  
 
 ## Installation
 
@@ -16,3 +16,5 @@ You can install the package globally using npm:
 
 ```bash
 npm install -g palette-generator
+
+Enjoy
