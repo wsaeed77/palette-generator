@@ -43,7 +43,7 @@ function generatePalette(baseColor, count = 5, scheme = 'default') {
  */
 function displayPalette(palette) {
     palette.forEach((color) => {
-        console.log(`%c ${color}`, `background: ${color}; color: #fff; padding: 5px;`);
+        console.log(`%c ${color}`, `background: ${color}; color: #fff; padding: 7px;`);
     });
 }
 
