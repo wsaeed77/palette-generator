@@ -1,7 +1,7 @@
 {
   "name": "console-palette-generator",
   "version": "1.1.2",
-  "description": "A simple color palette generator for console output",
+  "description": "A simple color palette generator for console outputs",
   "main": "index.js",
   "bin": {
     "palette-gen": "./cli.js"
