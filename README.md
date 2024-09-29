@@ -12,7 +12,7 @@
 
 ## Installation
 
-You can install the package globally using npm:
+You can install  package globally using npm:
 
 ```bash
 npm install -g palette-generator
